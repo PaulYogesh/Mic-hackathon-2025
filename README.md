@@ -13,7 +13,6 @@ This repository contains a lightweight prototype developed during **MIC Hackatho
 3. Upload an SEM image when prompted.
 4. Make sure the filename contains the FOV if you want automatic calibration, e.g.:
    - `sample_10 um_sem.png`
-   - `SEM_5.0um.tif`
 
 If the FOV is not found in the filename, the script defaults to **10.0 µm**.
 
